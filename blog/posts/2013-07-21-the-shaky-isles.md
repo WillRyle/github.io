@@ -1,0 +1,9 @@
+---
+layout: post
+title: The Shaky Isles
+date: 2013-07-21 18:26
+author: willryle
+comments: true
+categories: [New Zealand]
+---
+<p>New Zealand is apparently known as the Shaky Isles on account of the frequent earthquakes. We'd only been in the country about 10 days when we felt our first. Since then we've experienced a number of mild quakes, nothing like the frequency and intensity of those still endured by Cantabrians since the two big quakes in Christchurch.</p><p>Since Friday however, a rash of quakes from the same point of origin in Cook Strait has been felt throughout the country.</p><p><!--more--></p><p>The first was on Friday morning, a slight rocking then a sudden thump got our attention in the office, sufficient to bring the '<a href="http://www.getthru.govt.nz/web/GetThru.nsf/web/BOWN-7GY5TP" target="_blank">drop-cover-hold</a>' warnings to mind. There was no further violence though, and the building rocked gently to a standstill. This was a 5.7 magnitude and relatively shallow. The depth of a quake is a key factor - the closer to the surface, the bigger the impact.</p><p><a href="http://geonet.org.nz/quakes/region/newzealand/2013p543824" target="_blank"><img class="alignleft  wp-image-1681" alt="QuakeMap-21-July-2013" src="http://willryle.files.wordpress.com/2013/07/quakemap-21-july-2013.jpg?w=219" width="219" height="300" /></a>Saturday morning saw a similar sized event, but the main show was today (Sunday) at about 5 pm when a <a href="http://geonet.org.nz/quakes/region/newzealand/2013p543824" target="_blank">6.5</a> gave us a fair good shaking and was rated as Severe. In the pool room the water was sloshing around under the cover and largely contained, but there was enough of a jolt to splash a small amount of water over the side.</p><p>Lesser tremors are happening quite frequently, though most of them aren't felt. Maybe it's time to review our emergency preparations.</p>
